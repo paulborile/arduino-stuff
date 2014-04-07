@@ -1,4 +1,4 @@
 arduino-stuff
 =============
 
-Things developped for the Arduino platform
+Things developed for the Arduino platform
